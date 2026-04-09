@@ -33,7 +33,7 @@ Happy hacking!
 ```
 
 * Estrutura básica no projeto react
-```
+
     react-basico
         node_modules **(Esse diretório possui todos os módulos node)**
         public
@@ -56,7 +56,7 @@ Happy hacking!
         package-lock.json
         package.json **(Onde fica todas as dependencias do nosso aplicativo)**
         README.md  **(Se quiser documentar a aplicação)**
-```
+
 
 * Alterando o arquivo App.js
 
