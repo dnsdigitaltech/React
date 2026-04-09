@@ -1,2 +1,2 @@
-# React
-Tudo Sobre React
+# Tudo Sobre React
+Criando uma aplicação React passo a passo
